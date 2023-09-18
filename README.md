@@ -1,8 +1,6 @@
-# Projeto Desenvolvido no Curso Front-End/UI-UX Designer da Orimagi
-Desenvolvido em HTML e CSS
+# Projeto Desenvolvido em HTML e CSS
+Desenvolvido no Curso Front-End/UI-UX Designer da Orimagi |
 Acesse a [Pagina](https://alexsanderssilva.github.io/) para uma Demonstração ao vivo.
-
-Portifólio Responsivo:
 
   
 ![Captura de tela 2023-09-18 182851](https://github.com/ALEXSANDERSSILVA/alexsanderssilva.github.io/assets/124836850/cb609fdc-f4b4-4c03-b60e-edeab948b328)
